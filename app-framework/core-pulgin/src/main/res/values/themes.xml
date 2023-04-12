@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--XML based activity theme-->
+    <style name="Theme.AppFramework.Xml.Based" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+    <style name="Theme.AppFramework.Compose.Based" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

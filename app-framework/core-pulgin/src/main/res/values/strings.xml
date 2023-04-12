@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppFramework</string>
+
+   <!--Iap String constants-->
+    <string name="premium_offers">Premium offers</string>
+    <string name="billing_info"> By tapping Continue, your payment will be charged to your Google Play account, and your subscription will automatically renew for the same package length at the same price until you cancel in settings in the Google play store. By tapping Continue button, you agree to our terms.</string>
+    <string name="remove_ads">Try Premium version and Remove Ad</string>
+    <string name="made_in_india">Made in India</string>
+    <string name="recuringanytime">Recurring billing, cancel anytime.</string>
+    <string name="recuringanytime_with_trial">3 Day Free Trial</string>
+
+    <!--Fonts-->
+    <string name="text_1_path" translatable="false">fonts/OpenSans-Regular.ttf</string>
+    <string name="text_2_path" translatable="false">fonts/OpenSans-SemiBold.ttf</string>
+
+</resources>
